@@ -1,0 +1,12 @@
+[submodule "msa-store-service"]
+	path = msa-store-service
+	url = https://github.com/leventsov-i/msa-store-service.git
+[submodule "msa-order-service"]
+	path = msa-order-service
+	url = https://github.com/leventsov-i/msa-order-service.git
+[submodule "msa-warehouse-service"]
+	path = msa-warehouse-service
+	url = https://github.com/leventsov-i/msa-warehouse-service.git
+[submodule "msa-warranty-service"]
+	path = msa-warranty-service
+	url = https://github.com/leventsov-i/msa-warranty-service.git
