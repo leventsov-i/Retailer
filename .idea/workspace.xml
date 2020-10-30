@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b4dcce2-1fdb-4e28-a777-9635b9814cf5" name="Default Changelist" comment="update .idea">
+      <change afterPath="$PROJECT_DIR$/.idea/Retailer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-order-service" beforeDir="false" afterPath="$PROJECT_DIR$/msa-order-service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-order-service/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/msa-order-service/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-order-service/src/main/java/ru/bmtsu/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa-order-service/src/main/java/ru/bmtsu/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-store-service" beforeDir="false" afterPath="$PROJECT_DIR$/msa-store-service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-store-service/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/msa-store-service/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-warehouse-service" beforeDir="false" afterPath="$PROJECT_DIR$/msa-warehouse-service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-warehouse-service/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/msa-warehouse-service/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-warranty-service" beforeDir="false" afterPath="$PROJECT_DIR$/msa-warranty-service" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/msa-order-service">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/msa-store-service">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/msa-warehouse-service">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/msa-warranty-service">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/msa-warehouse-service">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/msa-warranty-service">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="msa-warranty-service" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="msa-warranty-service" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="msa-warranty-service" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="msa-warranty-service" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/msa-order-service" value="c" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="KonanWorkspace">
+    <executables />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="13jdmdau" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1jYpfIS2PXfgllbzRUFgHf4oqi4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.27695167" />
+  </component>
+  <component name="RunManager" selected="Gradle.msa-warranty-service [run]">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/ivan.leventsov/IdeaProjects/Retailer/msa-warehouse-service/build.gradle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/msa-warehouse-service/build.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="msa-warehouse-service [bootJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/msa-warehouse-service" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="msa-warehouse-service [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/msa-warehouse-service" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="msa-warranty-service [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/msa-warranty-service" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="msa-warranty-service [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/msa-warranty-service" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.msa-warranty-service [run]" />
+        <item itemvalue="Gradle.msa-warranty-service [build]" />
+        <item itemvalue="Gradle.msa-warehouse-service [bootJar]" />
+        <item itemvalue="Gradle.msa-warehouse-service [build]" />
+        <item itemvalue="Gradle./Users/ivan.leventsov/IdeaProjects/Retailer/msa-warehouse-service/build.gradle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b4dcce2-1fdb-4e28-a777-9635b9814cf5" name="Default Changelist" comment="" />
+      <created>1603990980998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603990980998</updated>
+      <workItem from="1603990982114" duration="658000" />
+      <workItem from="1603991691695" duration="560000" />
+      <workItem from="1603992274415" duration="141000" />
+      <workItem from="1603992434742" duration="716000" />
+      <workItem from="1604006906312" duration="34000" />
+      <workItem from="1604007052297" duration="625000" />
+      <workItem from="1604007685026" duration="325000" />
+      <workItem from="1604008015785" duration="1179000" />
+      <workItem from="1604066499669" duration="1456000" />
+      <workItem from="1604068998048" duration="773000" />
+    </task>
+    <task id="LOCAL-00001" summary="init project">
+      <created>1603992714616</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603992714616</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update build.gradle">
+      <created>1604007960785</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604007960786</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init project" />
+    <MESSAGE value="update build.gradle" />
+    <option name="LAST_COMMIT_MESSAGE" value="update build.gradle" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="384" y="141" key="#Project_Structure" timestamp="1604069464277">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="384" y="141" key="#Project_Structure/0.0.1792.1120@0.0.1792.1120" timestamp="1604069464277" />
+    <state x="635" y="436" width="522" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1604067011278">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="635" y="436" width="522" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1792.1120@0.0.1792.1120" timestamp="1604067011278" />
+    <state x="634" y="314" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604067051284">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="634" y="314" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1604067051284" />
+    <state width="739" height="542" key="Git.Branch.Popup" timestamp="1604007087123">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="739" height="542" key="Git.Branch.Popup/0.0.1792.1120@0.0.1792.1120" timestamp="1604007087123" />
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1604069759829">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1604069759829" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1604069759827">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1604069759827" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1604069759826">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1604069759826" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1604069759828">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1604069759828" />
+    <state width="1750" height="318" key="GridCell.Tab.1.bottom" timestamp="1604068979084">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1604068979084" />
+    <state width="1750" height="318" key="GridCell.Tab.1.center" timestamp="1604068979083">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1604068979083" />
+    <state width="1750" height="318" key="GridCell.Tab.1.left" timestamp="1604068979083">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1604068979083" />
+    <state width="1750" height="318" key="GridCell.Tab.1.right" timestamp="1604068979084">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1604068979084" />
+    <state x="511" y="266" key="NewModule_or_Project.wizard" timestamp="1604069457307">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="511" y="266" key="NewModule_or_Project.wizard/0.0.1792.1120@0.0.1792.1120" timestamp="1604069457307" />
+    <state x="384" y="141" key="SettingsEditor" timestamp="1603991145046">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="384" y="141" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1603991145046" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1604007976115">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1604007976115" />
+    <state x="683" y="345" key="chooseDestDirectoryDialog" timestamp="1604007869486">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="683" y="345" key="chooseDestDirectoryDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1604007869486" />
+    <state x="694" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604007116168">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="694" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1792.1120@0.0.1792.1120" timestamp="1604007116168" />
+    <state x="100" y="100" width="1592" height="920" key="dock-window-1" timestamp="1604067257178">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="100" y="100" width="1592" height="920" key="dock-window-1/0.0.1792.1120@0.0.1792.1120" timestamp="1604067257178" />
+    <state x="639" y="280" key="git4idea.branch.GitSmartOperationDialog" timestamp="1604007096080">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="639" y="280" key="git4idea.branch.GitSmartOperationDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1604007096080" />
+    <state x="264" y="245" key="new project wizard" timestamp="1603992628233">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="264" y="245" key="new project wizard/0.0.1792.1120@0.0.1792.1120" timestamp="1603992628233" />
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/msa-order-service" />
+    <file type="web" url="file://$PROJECT_DIR$/msa-store-service" />
+    <file type="web" url="file://$PROJECT_DIR$/msa-warehouse-service" />
+    <file type="web" url="file://$PROJECT_DIR$/msa-warranty-service" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
